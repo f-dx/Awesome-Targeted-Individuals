@@ -8,8 +8,8 @@
 
 <!-- subtitle -->
 
-An Awesome collection of resources for Targeted Individuals (Modern Zersetzung program - global rude violations of human rights).
-All about RNM (Remote Neural Monitoring), Electronic Harassments, Electronic Tortures, Cyber Harassments and Gaslighting.
+An Awesome collection of resources for Targeted Individuals (Modern Zersetzung program - global rude violations of human rights at planetary scale).
+All about RNM (Remote Neural Monitoring), Electronic Harassments, Electronic Tortures, Cyber Harassments, Directed Energy Weapons assaults and Gaslighting.
 
 <!-- description -->
 
@@ -34,8 +34,6 @@ example.
 - [Symptoms](https://stop007.org/home/how-is-it-all-possible/for-new-victims/) - How does it feel to be a victim?
 
 
-## For whistleblowers: please use ... channel to send sensitive information to help Targeted Individuals fight against torture.
-## For press / media: I'm open to give interview about my case publically. Your impact is super important.
 
 
 ## General information and FAQ
@@ -44,9 +42,12 @@ example.
 
 ## How does it work / The surface of attach
 
+Psychological warfare
 Online Platforms AI Bubble
 Bioweapons / Diseases / GAS / Water
-Brain Altering / Implants / Nanorobots / Bio modifiers (Virus / Bacteria / Worms)
+Brain Altering / Brain Bio modifiers (Virus / Bacteria / Implants)
+
+# Your AI Bubble
 
 
 ## Agents of the system / Who they are?
@@ -61,7 +62,41 @@ known as "remote neural monitoring" being used to track targeted individuals. Th
 
 ## Self-protection guide
 
-- 
+## Equipment List
+
+Shielding
+
+Metal Foil 
+Metal Panels
+Metal Shed
+Faraday Cage
+
+Air Protection: Vectors of attack
+
+Sockets
+Open
+
+Air Protection: Defence
+
+Air Filters
+Gas masks
+N95 Masks
+
+Security
+
+Home Safe
+Home Surveillance
+
+Measurement
+
+Electromagnetic Radiation Meter
+Directional Radiation Meter 
+RF Spectrum Analyser (HackRF)
+Frequency Counter (Body Chip Frequencies) WANTED!!!
+Thermal Camera (Body Implants, Weapons)
+Geiger Counter (Radioactivity, X-Ray Surveillance)
+Gas Detector (Gas Poisoning)
+
 
 ## AirBNB, Booking.com, Hotels / Rental properties Targeting.
 
@@ -75,13 +110,11 @@ known as "remote neural monitoring" being used to track targeted individuals. Th
 
 ## Sexual assaults 
 
-## "Climbing" program
+## "Climbing" program / Gladiator fights
 
-
+## Financial terrorism / Economic warfare
 
 ## Support Groups and Communities
-
-
 
 
 <!-- END CONTENT -->
@@ -93,6 +126,9 @@ known as "remote neural monitoring" being used to track targeted individuals. Th
 Who else should we be following!?
 
 ## Contributing
+
+For whistleblowers: please use ... channel to send sensitive information to help Targeted Individuals fight against tortures.
+For press / media: I'm open to give interview about my case publically. Your impact is valuable.
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
