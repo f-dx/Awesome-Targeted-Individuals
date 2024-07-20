@@ -9,7 +9,15 @@
 <!-- subtitle -->
 
 An Awesome collection of resources for Targeted Individuals (Modern Zersetzung program - global rude violations of human rights at planetary scale).
-All about RNM (Remote Neural Monitoring), Electronic Harassments, Electronic Tortures, Cyber Harassments, Directed Energy Weapons assaults and Gaslighting.
+
+You will find here all about 
+
+* RNM (Remote Neural Monitoring),
+* Electronic Harassments,
+* Electronic Tortures,
+* Cyber Harassments,
+* Directed Energy Weapons assaults
+* Gaslighting.
 
 <!-- description -->
 
