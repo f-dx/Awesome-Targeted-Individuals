@@ -45,6 +45,7 @@ Fight back and make a change. Be the Change.
 
 - Am I in a group of risk?
 - [Symptoms](https://stop007.org/home/how-is-it-all-possible/for-new-victims/) - How does it feel to be a victim?
+- Checklist of Targeted Individual
 - Why am I targeted?
 - What will happen with me next? Am I doomed?
 
