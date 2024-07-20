@@ -10,14 +10,7 @@
 
 An Awesome collection of resources for Targeted Individuals (Modern Zersetzung program - global rude violations of human rights at planetary scale).
 
-You will find here all about 
-
-* RNM (Remote Neural Monitoring),
-* Electronic Harassments,
-* Electronic Tortures,
-* Cyber Harassments,
-* Directed Energy Weapons assaults
-* Gaslighting.
+You will find here all about RNM (Remote Neural Monitoring),Electronic Harassments, Electronic Tortures, Cyber Harassments, Directed Energy Weapons assaults, Gaslighting.
 
 <!-- description -->
 
@@ -121,9 +114,26 @@ Measurement
 
 ## Sexual assaults 
 
+## Sound attacks and inside-wall hidden devices 
+
+* How to detect an in-wall device
+
 ## "Climbing" program / Gladiator fights
 
 ## Financial terrorism / Economic warfare
+
+
+## Self Help
+
+* YouTube channels
+* Books
+* Authors
+* Websites
+* Psychological techniques
+* Spiritual practices to support yourself
+* Religion to keep integrity
+* Sport and life balance
+* Family and Social support
 
 ## Support Groups and Communities
 
