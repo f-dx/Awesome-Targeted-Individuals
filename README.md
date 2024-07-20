@@ -9,7 +9,7 @@
 <!-- subtitle -->
 
 An Awesome collection of resources for Targeted Individuals. 
-Modern Zersetzung program - global rude violations of human rights at planetary scale using high-tech weapons.
+In a nutshell it's a new version of [Zersetzung](https://en.wikipedia.org/wiki/Zersetzung) program - global rude violations of human rights at planetary scale using high-tech weapons.
 
 You will find here all about RNM (Remote Neural Monitoring),Electronic Harassments, Electronic Tortures, Cyber Harassments, Directed Energy Weapons assaults, Gaslighting.
 
@@ -172,6 +172,7 @@ For press / media: I'm open to give interview about my case publically. Your imp
 ### About me
 My name is Michael and I am a targeted individual for 7 years, 
 since the moment when I discovered a leak of the US gov AI project.
-7 years of tortures, pressure, abuses, exploitation, fear, anxiety and confusion, shame and humiliations.
+
+7 years of episodical tortures, pressure, abuses, exploitation, fear, anxiety and confusion, shame and humiliations.
 However I'm still alive and thriving. I've learned how to fight back and I can teach you.
 Together we are stornger, let's make a change. Let's stop planetary-scale tortures together.
