@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-An Awesome collection of resources for Awesome Targeted Individuals.
+An Awesome collection of resources for Targeted Individuals (Modern Zersetzung program for potential dissidents of global governnment / deep state).
 All about RNM (Remote Neural Monitoring)
 
 <!-- image -->
