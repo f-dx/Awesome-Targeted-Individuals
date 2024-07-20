@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-An Awesome collection of resources for Targeted Individuals (Modern Zersetzung program for potential dissidents of global governnment (deep state)).
+An Awesome collection of resources for Targeted Individuals (Modern Zersetzung program - global rude violations of human rights).
 All about RNM (Remote Neural Monitoring), Electronic Harassments, Electronic Tortures, Cyber Harassments and Gaslighting.
 
 <!-- description -->
@@ -29,28 +29,58 @@ example.
 
 <!-- CONTENT -->
 
+## Am I a targeted individual?
+
+- [Symptoms](https://stop007.org/home/how-is-it-all-possible/for-new-victims/) - How does it feel to be a victim?
+
+
+## For whistleblowers: please use ... channel to send sensitive information to help Targeted Individuals fight against torture.
+## For press / media: I'm open to give interview about my case publically. Your impact is super important.
+
+
 ## General information and FAQ
 
 - 
 
-## How does it work
+## How does it work / The surface of attach
+
+Online Platforms AI Bubble
+Bioweapons / Diseases / GAS / Water
+Brain Altering / Implants / Nanorobots / Bio modifiers (Virus / Bacteria / Worms)
 
 
-## How does it work
+## Agents of the system / Who they are?
 
 
-## Remote Neural Monitoring
+## Remote Neural Monitoring (advanced brain control technology mind control for the masses, no implant needed)
+
+There is no credible scientific evidence or public information to support the existence of a technology 
+known as "remote neural monitoring" being used to track targeted individuals. The community is still in search for the answers.
 
 - [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
 ## Self-protection guide
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- 
 
-  
+## AirBNB, Booking.com, Hotels / Rental properties Targeting.
+
+- How it works?
+- Example of rental Targeting in Spain
+
+## Dreams Control
+
+
+## Poisoning
+
+## Sexual assaults 
+
+## "Climbing" program
+
+
+
 ## Support Groups and Communities
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
 
 
