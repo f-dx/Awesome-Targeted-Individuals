@@ -8,7 +8,8 @@
 
 <!-- subtitle -->
 
-An Awesome collection of resources for Targeted Individuals. (Modern Zersetzung program - global rude violations of human rights at planetary scale).
+An Awesome collection of resources for Targeted Individuals. 
+Modern Zersetzung program - global rude violations of human rights at planetary scale using high-tech weapons.
 
 You will find here all about RNM (Remote Neural Monitoring),Electronic Harassments, Electronic Tortures, Cyber Harassments, Directed Energy Weapons assaults, Gaslighting.
 
@@ -33,11 +34,13 @@ Fight back and make a change. Be the Change.
 
 - [Symptoms](https://stop007.org/home/how-is-it-all-possible/for-new-victims/) - How does it feel to be a victim?
 - Why am I targeted?
-- What will happen next?
+- What will happen with me next? Am I doomed?
 
 ## General information and FAQ
 
-- 
+- Who is behind Targeted Individuals program?
+- Why it still exists?
+- How to stop Targeted Individuals program?
 
 ## How does it work / The surface of attach
 
@@ -142,7 +145,7 @@ Measurement
 
 ## Support Groups and Communities
 
-## Legal Actions
+## Legal Actions: what's missing
 
 ## Let's make some noise. Protests. Strikes. Demonstrations.
 
