@@ -51,12 +51,13 @@ A full pack of information to protect yourself from a group of organised cowards
 ## Agents of the system / Who they are?
 
 
-## Remote Neural Monitoring (advanced brain control technology mind control for the masses, no implant needed)
+## RNM (Remote Neural Monitoring)
 
-There is no credible scientific evidence or public information to support the existence of a technology 
-known as "remote neural monitoring" being used to track targeted individuals. The community is still in search for the answers.
+Advanced brain control technology mind control for the masses, no implant needed.
+There is no credible scientific evidence or public information to support the existence of a technology
+known as "remote neural monitoring" being used to track targeted individuals. 
+The community is still in search for the answers.
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
 ## Self-protection guide
 
