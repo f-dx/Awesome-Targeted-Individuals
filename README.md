@@ -8,14 +8,8 @@
 
 <!-- subtitle -->
 
-An Awesome collection of resources for Targeted Individuals (Modern Zersetzung program for potential dissidents of global governnment / deep state).
-All about RNM (Remote Neural Monitoring)
-
-<!-- image -->
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>
+An Awesome collection of resources for Targeted Individuals (Modern Zersetzung program for potential dissidents of global governnment (deep state)).
+All about RNM (Remote Neural Monitoring), Electronic Harassments, Electronic Tortures, Cyber Harassments and Gaslighting.
 
 <!-- description -->
 
@@ -35,13 +29,30 @@ example.
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## General information and FAQ
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- 
 
-## Section 1
+## How does it work
+
+
+## How does it work
+
+
+## Remote Neural Monitoring
 
 - [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+## Self-protection guide
+
+- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+  
+## Support Groups and Communities
+
+- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+
 
 <!-- END CONTENT -->
 
