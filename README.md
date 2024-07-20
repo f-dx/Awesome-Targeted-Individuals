@@ -32,6 +32,8 @@ Fight back and make a change. Be the change.
 ## Am I a targeted individual?
 
 - [Symptoms](https://stop007.org/home/how-is-it-all-possible/for-new-victims/) - How does it feel to be a victim?
+- Why am I targeted?
+- What will happen next?
 
 ## General information and FAQ
 
@@ -48,7 +50,7 @@ Fight back and make a change. Be the change.
 ## Your AI Bubble
 
 * Recommendation Engines Content
-* 
+* Centralised AI mind control
 
 ## Agents of the system / Who they are?
 
@@ -56,7 +58,7 @@ Fight back and make a change. Be the change.
 ## RNM (Remote Neural Monitoring)
 
 Advanced brain control technology mind control for the masses, no implant needed.
-There is no credible scientific evidence or public information to support the existence of a technology
+There is no credible scientific evidence or public information to support the existence of a technology,
 known as "remote neural monitoring" being used to track targeted individuals. 
 The community is still in search for the answers.
 
@@ -74,8 +76,10 @@ Shielding
 
 Air Protection: Vectors of attack
 
-Sockets
-Open
+* Sockets
+* Wall Holes
+* Windows
+* House entrence
 
 Air Protection: Defence
 
@@ -104,7 +108,7 @@ Measurement
 - How it works?
 - Example of rental Targeting in Spain
 
-## Dreams Control
+## Dreams Control / Night attacks
 
 ## Poisoning
 
@@ -118,7 +122,7 @@ Measurement
 
 * How to detect an in-wall device
 
-## "Climbing" program / Gladiator fights
+## "Climbing" program / Gladiator fights / Live shows for sick billionaires 
 
 ## Financial terrorism / Economic warfare
 
