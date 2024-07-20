@@ -35,11 +35,10 @@ Fight back and make a change. Be the Change.
 
 - False triggers and misrepresentation
 - Quick mental health check-up and integrity assurance
-- Anxiety panel
 - Online tests for internal integrity
 - Possible coincidences explanation
-- Check for medical issues
-- Talk to an expert / Psychiatrist / Psychologist
+- Check for medical issues (anxiety triggers)
+- Talk to a Doctor / Psychiatrist / Psychologist if have doubts
 
 
 ## Am I a targeted individual?
