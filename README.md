@@ -31,8 +31,19 @@ Fight back and make a change. Be the Change.
 
 <!-- CONTENT -->
 
+## Before start
+
+- False triggers and misrepresentation
+- Quick mental health check-up and integrity assurance
+- Anxiety panel
+- Online tests to ensure internal integrity
+- Possible coincidences explanation
+- Talk to an expert / Psychiatrist / Psychologist
+
+
 ## Am I a targeted individual?
 
+- Am I in a group of risk?
 - [Symptoms](https://stop007.org/home/how-is-it-all-possible/for-new-victims/) - How does it feel to be a victim?
 - Why am I targeted?
 - What will happen with me next? Am I doomed?
@@ -43,18 +54,21 @@ Fight back and make a change. Be the Change.
 - Why it still exists?
 - How to stop Targeted Individuals program?
 
-## How does it work / The surface of attach
+## How does it work / The surface of attack
 
 * Psychological warfare
 * Surveillance and Privacy Violation
 * Online Platforms and Global AI Bubble (Google, YouTube, Facebook, OpenAI...)
-* Bio weapons / Immune system / GAS / Water /
-* Brain Altering / Brain Bio Modifiers (Virus / Bacteria / Implants)
+* Bio weapons / Immune system / GAS / Water
+* Brain Modifiers (RNM and similar technologies)
+* Directed Energy Weapons
+* 
 
 ## Your AI Bubble and Algorithmic discrimination
 
 * Recommendation Engines Content
 * Centralised AI mind control
+* Personality-aware AI that controls operations
 
 ## Agents of the system / Who they are?
 
@@ -79,18 +93,16 @@ Shielding
 * Metal Shed
 * Faraday Cage
 
-Air Protection: Vectors of attack
-
-* Sockets
-* Wall Holes
-* Windows
-* House entrence
-
 Air Protection: Defence
 
 * Air Filters
 * Gas masks
 * N95 Masks
+* Sockets
+* Wall Holes
+* Windows
+* House entrence
+* Ventilation
 
 Security
 
@@ -102,11 +114,12 @@ Measurement
 * Electromagnetic Radiation Meter
 * Directional Radiation Meter 
 * RF Spectrum Analyser (HackRF)
-* Frequency Counter (Body Chip Frequencies) WANTED!!!
-* Thermal Camera (Body Implants, Weapons)
-* Geiger Counter (Radioactivity, X-Ray Surveillance)
-* Gas Detector (Gas Poisoning)
-
+* Thermal Camera
+* Geiger Counter
+* Gas Detector
+* Air tests
+* Water tests
+* Laboratories for water/air/poison analysis
 
 ## AirBNB, Booking.com, Hotels / Rental properties Targeting
 
