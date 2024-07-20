@@ -13,7 +13,8 @@ All about RNM (Remote Neural Monitoring), Electronic Harassments, Electronic Tor
 
 <!-- description -->
 
-A full pack of information to protect yourself from a group of organised cowards. 
+A full pack of information to protect yourself from a group of organised cowards.
+Fight back and make a change. Be the change.
 
 </div>
 
