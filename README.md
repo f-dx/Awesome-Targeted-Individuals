@@ -9,7 +9,7 @@
 <!-- subtitle -->
 
 An Awesome collection of resources for Targeted Individuals. 
-In a nutshell it's a new version of [Zersetzung](https://en.wikipedia.org/wiki/Zersetzung) program - global rude violations of human rights at planetary scale using high-tech weapons.
+Who are Targeted Individuals? In a nutshell those are victims of new version of [Zersetzung](https://en.wikipedia.org/wiki/Zersetzung) program - global rude violations of human rights at planetary scale using high-tech weapons.
 
 You will find here all about RNM (Remote Neural Monitoring),Electronic Harassments, Electronic Tortures, Cyber Harassments, Directed Energy Weapons assaults, Gaslighting.
 
