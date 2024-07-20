@@ -4,11 +4,12 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Targeted Individuals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome Targeted Individuals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)]
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+An Awesome collection of resources for Awesome Targeted Individuals.
+All about RNM (Remote Neural Monitoring)
 
 <!-- image -->
 
