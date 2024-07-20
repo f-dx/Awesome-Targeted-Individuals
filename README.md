@@ -13,7 +13,7 @@ All about RNM (Remote Neural Monitoring), Electronic Harassments, Electronic Tor
 
 <!-- description -->
 
-A one line description of the product or tool. See
+A full pack of information to protect description of the product or tool. See
 [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
 example.
 
@@ -33,9 +33,6 @@ example.
 
 - [Symptoms](https://stop007.org/home/how-is-it-all-possible/for-new-victims/) - How does it feel to be a victim?
 
-
-
-
 ## General information and FAQ
 
 - 
@@ -43,9 +40,10 @@ example.
 ## How does it work / The surface of attach
 
 Psychological warfare
-Online Platforms AI Bubble
+Surveillance and Privacy Violation
+Online Platforms and Global AI Bubble (Google, YouTube, Facebook, OpenAI...)
 Bioweapons / Diseases / GAS / Water
-Brain Altering / Brain Bio modifiers (Virus / Bacteria / Implants)
+Brain Altering / Brain Bio Modifiers (Virus / Bacteria / Implants)
 
 # Your AI Bubble
 
@@ -105,8 +103,11 @@ Gas Detector (Gas Poisoning)
 
 ## Dreams Control
 
-
 ## Poisoning
+
+Food poisoning
+Skin poisoning
+Water poisoning
 
 ## Sexual assaults 
 
