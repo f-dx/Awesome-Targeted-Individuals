@@ -89,16 +89,16 @@ Security
 
 Measurement
 
-Electromagnetic Radiation Meter
-Directional Radiation Meter 
-RF Spectrum Analyser (HackRF)
-Frequency Counter (Body Chip Frequencies) WANTED!!!
-Thermal Camera (Body Implants, Weapons)
-Geiger Counter (Radioactivity, X-Ray Surveillance)
-Gas Detector (Gas Poisoning)
+* Electromagnetic Radiation Meter
+* Directional Radiation Meter 
+* RF Spectrum Analyser (HackRF)
+* Frequency Counter (Body Chip Frequencies) WANTED!!!
+* Thermal Camera (Body Implants, Weapons)
+* Geiger Counter (Radioactivity, X-Ray Surveillance)
+* Gas Detector (Gas Poisoning)
 
 
-## AirBNB, Booking.com, Hotels / Rental properties Targeting.
+## AirBNB, Booking.com, Hotels / Rental properties Targeting
 
 - How it works?
 - Example of rental Targeting in Spain
@@ -107,9 +107,9 @@ Gas Detector (Gas Poisoning)
 
 ## Poisoning
 
-Food poisoning
-Skin poisoning
-Water poisoning
+* Food poisoning
+* Skin poisoning
+* Water poisoning
 
 ## Sexual assaults 
 
@@ -138,3 +138,10 @@ For press / media: I'm open to give interview about my case publically. Your imp
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
+
+### About me
+My name is Michael and I am a targeted individual for 7 years, 
+since the moment when I discovered a leak of the US gov AI project.
+7 years of tortures, pressure, abuses, exploitation, fear, anxiety and confusion, shame and humiliations.
+However I'm still alive and thriving. I've learned how to fight back and I can teach you.
+Together we are stornger, let's make a change. Let's stop planetary-scale tortures together.
