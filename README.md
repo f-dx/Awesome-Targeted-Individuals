@@ -13,9 +13,7 @@ All about RNM (Remote Neural Monitoring), Electronic Harassments, Electronic Tor
 
 <!-- description -->
 
-A full pack of information to protect description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
+A full pack of information to protect yourself from a group of organised cowards. 
 
 </div>
 
