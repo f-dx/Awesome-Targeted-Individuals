@@ -8,14 +8,14 @@
 
 <!-- subtitle -->
 
-An Awesome collection of resources for Targeted Individuals (Modern Zersetzung program - global rude violations of human rights at planetary scale).
+An Awesome collection of resources for Targeted Individuals. (Modern Zersetzung program - global rude violations of human rights at planetary scale).
 
 You will find here all about RNM (Remote Neural Monitoring),Electronic Harassments, Electronic Tortures, Cyber Harassments, Directed Energy Weapons assaults, Gaslighting.
 
 <!-- description -->
 
-A full pack of information to protect yourself from a group of organised cowards.
-Fight back and make a change. Be the change.
+A full pack of organised and validated information to protect yourself from a group of organised cowards.
+Fight back and make a change. Be the Change.
 
 </div>
 
@@ -47,7 +47,7 @@ Fight back and make a change. Be the change.
 * Bio weapons / Immune system / GAS / Water /
 * Brain Altering / Brain Bio Modifiers (Virus / Bacteria / Implants)
 
-## Your AI Bubble
+## Your AI Bubble and Algorithmic discrimination
 
 * Recommendation Engines Content
 * Centralised AI mind control
@@ -62,6 +62,7 @@ There is no credible scientific evidence or public information to support the ex
 known as "remote neural monitoring" being used to track targeted individuals. 
 The community is still in search for the answers.
 
+## Agents at scale: "Street Theatre" performances
 
 ## Self-protection guide
 
@@ -140,6 +141,10 @@ Measurement
 * Family and Social support
 
 ## Support Groups and Communities
+
+## Legal Actions
+
+## Let's make some noise. Protests. Strikes. Demonstrations.
 
 
 <!-- END CONTENT -->
