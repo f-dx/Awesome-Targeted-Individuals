@@ -16,6 +16,7 @@ You will find here all about RNM (Remote Neural Monitoring),Electronic Harassmen
 <!-- description -->
 
 A full pack of organised and validated information to protect yourself from a group of organised cowards.
+No conspiracy theories. Only facts against torture.
 Fight back and make a change. Be the Change.
 
 </div>
