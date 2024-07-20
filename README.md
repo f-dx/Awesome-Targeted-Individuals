@@ -39,14 +39,16 @@ example.
 
 ## How does it work / The surface of attach
 
-Psychological warfare
-Surveillance and Privacy Violation
-Online Platforms and Global AI Bubble (Google, YouTube, Facebook, OpenAI...)
-Bioweapons / Diseases / GAS / Water
-Brain Altering / Brain Bio Modifiers (Virus / Bacteria / Implants)
+* Psychological warfare
+* Surveillance and Privacy Violation
+* Online Platforms and Global AI Bubble (Google, YouTube, Facebook, OpenAI...)
+* Bio weapons / Immune system / GAS / Water /
+* Brain Altering / Brain Bio Modifiers (Virus / Bacteria / Implants)
 
-# Your AI Bubble
+## Your AI Bubble
 
+* Recommendation Engines Content
+* 
 
 ## Agents of the system / Who they are?
 
@@ -64,10 +66,10 @@ known as "remote neural monitoring" being used to track targeted individuals. Th
 
 Shielding
 
-Metal Foil 
-Metal Panels
-Metal Shed
-Faraday Cage
+* Metal Foil 
+* Metal Panels
+* Metal Shed
+* Faraday Cage
 
 Air Protection: Vectors of attack
 
@@ -76,14 +78,14 @@ Open
 
 Air Protection: Defence
 
-Air Filters
-Gas masks
-N95 Masks
+* Air Filters
+* Gas masks
+* N95 Masks
 
 Security
 
-Home Safe
-Home Surveillance
+* Home Safe
+* Home Surveillance
 
 Measurement
 
