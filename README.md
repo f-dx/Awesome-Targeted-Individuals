@@ -38,7 +38,7 @@ Fight back and make a change. Be the Change.
 - Online tests for internal integrity
 - Possible coincidences explanation
 - Check for medical issues (anxiety triggers)
-- Talk to a Doctor / Psychiatrist / Psychologist if have doubts
+- Talk to Neurologist / Psychiatrist / Psychologist
 
 
 ## Am I a targeted individual?
