@@ -23,13 +23,6 @@ Fight back and make a change. Be the Change.
 
 <!-- TOC -->
 
-## Contents
-
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
-
-<!-- CONTENT -->
 
 ## Before start
 
@@ -141,7 +134,7 @@ Measurement
 
 * How to detect an in-wall device
 
-## "Climbing" program / Gladiator fights / Live shows for sick billionaires 
+## "Climbing" program / Gladiator fights / Live shows 
 
 ## Financial terrorism / Economic warfare
 
