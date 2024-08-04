@@ -55,7 +55,8 @@ Fight back and make a change. Be the Change.
 * Online Platforms and Global AI Bubble (Google, YouTube, Facebook, OpenAI...)
 * Bio weapons / Immune system / GAS / Water
 * Brain Modifiers (RNM and similar technologies)
-* Conductive non-magnetic materials used in neuralscience:
+  
+* Conductive non-magnetic materials used in neuroscience sorted by popularity:
 
 1. Carbon nanotubes 
 2. Graphene 
