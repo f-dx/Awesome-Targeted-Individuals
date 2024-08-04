@@ -54,26 +54,7 @@ Fight back and make a change. Be the Change.
 * Surveillance and Privacy Violation
 * Online Platforms and Global AI Bubble (Google, YouTube, Facebook, OpenAI...)
 * Bio weapons / Immune system / GAS / Water
-* Brain Modifiers (RNM and similar technologies)
-  
-* Conductive non-magnetic materials used in neuroscience sorted by popularity:
-
-1. Carbon nanotubes 
-2. Graphene 
-3. Gold nanoparticles 
-4. Silver nanoparticles
-5. Conductive polymers 
-6. (3,4-ethylenedioxythiophene) (PEDOT) 
-7. Reduced graphene oxide 
-8. Graphene oxide 
-9. Silicon nanoparticles 
-10. Platinum nanoparticles
-11. Zinc oxide nanoparticles 
-12. Titanium dioxide nanoparticles 
-13. Boron nitride nanotubes 
-14. Indium phosphide nanoparticles 
-15. Gallium nitride nanoparticles
-    
+* Brain Modifiers (RNM and similar technologies)    
 * Directed Energy Weapons
   
 ## Your AI Bubble and Algorithmic discrimination
