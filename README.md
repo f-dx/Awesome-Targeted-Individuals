@@ -126,14 +126,19 @@ Measurement
 * Food poisoning
 * Skin poisoning
 * Water poisoning
+* Gas poisoning
 
 ## Sexual assaults 
+
+* Simulated attacks at night
+* Body hijacking during sleep
+* Classical rape using sleep modulation
 
 ## Sound attacks and inside-wall hidden devices 
 
 * How to detect an in-wall device
 
-## "Climbing" program / Gladiator fights / Live shows 
+## "Climbing" program / Gladiator fights / Live shows
 
 ## Financial terrorism / Economic warfare
 
