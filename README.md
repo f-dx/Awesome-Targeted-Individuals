@@ -6,6 +6,8 @@
 
 # Awesome Targeted Individuals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
+--
+## Save humanity project
 <!-- subtitle -->
 
 An Awesome collection of resources for Targeted Individuals. 
