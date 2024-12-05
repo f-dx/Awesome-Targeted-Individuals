@@ -71,7 +71,7 @@ Fight back and make a change. Be the Change.
 Advanced brain control technology mind control for the masses, no implant needed.
 There is no credible scientific evidence or public information to support the existence of a technology,
 known as "remote neural monitoring" being used to track targeted individuals. 
-The community is still in search for the answers.
+The community is still in search for the answers. My research project is located here: https://github.com/f-dx/Awesome-Remote-Neural-Monitoring
 
 ## Agents at scale: "Street Theatre" performances
 
