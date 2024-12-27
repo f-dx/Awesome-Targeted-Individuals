@@ -171,22 +171,3 @@ Measurement
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 Who else should we be following!?
-
-## Contributing
-
-For whistleblowers: please use ... channel to send sensitive information to help Targeted Individuals fight against tortures.
-For press / media: I'm open to give interview about my case publically. Your impact is valuable.
-
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
-
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
-
-### About me
-My name is Michael and I am a targeted individual for 7 years, 
-since the moment when I discovered a leak of the US gov AI project.
-
-7 years of episodical tortures, pressure, abuses, exploitation, fear, anxiety and confusion, shame and humiliations.
-However I'm still alive and thriving. I've learned how to fight back and I can teach you.
-Together we are stornger, let's make a change. Let's stop planetary-scale tortures together.
