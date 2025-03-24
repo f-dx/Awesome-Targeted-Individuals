@@ -7,7 +7,12 @@
 # Awesome Targeted Individuals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 ## Save humanity project
+
 <!-- subtitle -->
+
+
+All truth passes through three phases. First, it is ridiculed. Secondly it is violently opposed. Third, it is accepted as being self evident.
+Arthur Schopenhauer
 
 An Awesome collection of resources for Targeted Individuals. 
 Who are Targeted Individuals? In a nutshell those are victims of new version of [Zersetzung](https://en.wikipedia.org/wiki/Zersetzung) program - global rude violations of human rights at planetary scale using high-tech weapons.
