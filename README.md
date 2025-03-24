@@ -29,7 +29,7 @@ Fight back and make a change. Be the Change.
 
 | Name | Description | Website |
 |------|-------------|----------|
-| James Walbert | Targeted Individual. First won case against electronic harassment | [Website](https://www.indiegogo.com/projects/james-walbert-implant-removal) |
+| James Walbert | Targeted Individual. First won case against electronic harassment | [News](https://www.wired.com/2009/07/court-to-defendant-stop-blasting-that-mans-mind/) |
 | Len Ber MD | Targeted Individual. Investigates officially Havana Syndrome | [Website](https://lenbermd.substack.com/) |
 | Dra. Katherine-Horton (PHD) | Targeted Individual. 7 lawsuits. Significant progress in human rights protection | [Website](https://stop007.org/) |
 | Bill Binney | Retired Technical Director of the US National Security Agency (NSA), whistleblower | [Website](https://whistleblower.org/bio-william-binney-and-j-kirk-wiebe/) |
