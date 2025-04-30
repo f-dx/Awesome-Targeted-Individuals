@@ -240,10 +240,15 @@ Measurement
 
 ## Support Groups and Communities
 
+TBD
+
 ## Legal Actions: what's missing
+
+TBD
 
 ## Let's make some noise. Protests. Strikes. Demonstrations.
 
+TBD
 
 <!-- END CONTENT -->
 
