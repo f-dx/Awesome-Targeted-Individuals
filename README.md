@@ -104,17 +104,14 @@ Fight back and make a change. Be the Change.
 | Dr. Masaki Shimoyama | Japanese researcher on electromagnetic weapons and targeting in Asia | No website available |
 | David James Fratus | Prison inmate who documented voice-to-skull technology experiences | No website available | 
 
-
---
-
 ## Before start
 
 - False triggers and misrepresentation
-- 
+  
 Gangstalking can involve false triggers and misrepresentation. Simple anxiety disorders or coincidences can be mistakenly seen as attacks. It's essential to recognize that normal events can occur naturally and may not be related to gangstalking. Be cautious of misinterpreting everyday experiences.
 
 - Quick mental health check-up and integrity assurance
-- 
+  
 Regular mental health check-ups are crucial for maintaining well-being. Consider taking a quick screening test like the Generalized Anxiety Disorder 7-item scale (GAD-7) or the Patient Health Questionnaire-9 (PHQ-9) to assess your mental state. Additionally, integrity assurance can be evaluated through self-reflection and tools like the Minnesota Multiphasic Personality Inventory (MMPI). These checks can help identify potential issues and promote mental wellness.
   
 - Check for medical issues (anxiety triggers)
