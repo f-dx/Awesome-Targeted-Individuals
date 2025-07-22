@@ -193,6 +193,15 @@ Since 9/11, **over $8 trillion of public money** has been transferred from soc
 
 ## Agents of the system / Who they are?
 
+There is a complex web of connections within secret organisations, goverments, intelligence and defence orgs, and elite families.
+
+70 years ago in the US it looked like [this](https://isgp-studies.com/afio-and-oss-society)
+
+<img width="542" height="455" alt="image" src="https://github.com/user-attachments/assets/002b22b7-a6af-419e-bb9d-1cb9a9036a0c" />
+
+Secret societies that could be involved:
+
+<img width="666" height="742" alt="image" src="https://github.com/user-attachments/assets/d11607b2-a36a-41e2-928b-0e2b36054b29" />
 
 "... It was some Time since that a Book fell into my Hands entituled “Proofs of a Conspiracy &c. by John Robison, which gives a full Account of a Society of Freemasons, that distinguishes itself by the Name “of Illuminati,” whose Plan is to overturn all Government and all Religion, even natural; and who endeavour to eradicate every Idea of a Supreme Being, and distinguish Man from Beast by his Shape only. A Thought suggested itself to me, that some of the Lodges in the United States might have caught the Infection, and might cooperate with the Illuminati or the Jacobine Club in France. Fauchet is mentioned by Robison as a zealous Member: and who can doubt of Genet and Adet? Have not these their Confidants in this Country? They use the same Expressions and are generally Men of no Religion. Upon serious Reflection I was led to think that it might be within your Power to prevent the horrid Plan from corrupting the Brethren of the English Lodge over which you preside. " To George Washington from G. W. Snyder, 22 August 1798
 
