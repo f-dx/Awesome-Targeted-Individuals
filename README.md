@@ -203,10 +203,12 @@ Secret societies that could be involved:
 
 <img width="666" height="742" alt="image" src="https://github.com/user-attachments/assets/d11607b2-a36a-41e2-928b-0e2b36054b29" />
 
-Decision making center of the operations is likely located here:
+Decision making center of the operations is likely located here (considering the density of secret organisations per sq. km):
 
 <img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/5bb8b99a-5ca8-4405-a55d-46a6ef33b3ef" />
 
+
+## Connection with Illuminati
 
 "... It was some Time since that a Book fell into my Hands entituled “Proofs of a Conspiracy &c. by John Robison, which gives a full Account of a Society of Freemasons, that distinguishes itself by the Name “of Illuminati,” whose Plan is to overturn all Government and all Religion, even natural; and who endeavour to eradicate every Idea of a Supreme Being, and distinguish Man from Beast by his Shape only. A Thought suggested itself to me, that some of the Lodges in the United States might have caught the Infection, and might cooperate with the Illuminati or the Jacobine Club in France. Fauchet is mentioned by Robison as a zealous Member: and who can doubt of Genet and Adet? Have not these their Confidants in this Country? They use the same Expressions and are generally Men of no Religion. Upon serious Reflection I was led to think that it might be within your Power to prevent the horrid Plan from corrupting the Brethren of the English Lodge over which you preside. " To George Washington from G. W. Snyder, 22 August 1798
 
