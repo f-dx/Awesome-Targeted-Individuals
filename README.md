@@ -110,23 +110,21 @@ Fight back and make a change. Be the Change.
 ## Before start
 
 - False triggers and misrepresentation
-
-
+- 
+Gangstalking can involve false triggers and misrepresentation. Simple anxiety disorders or coincidences can be mistakenly seen as attacks. It's essential to recognize that normal events can occur naturally and may not be related to gangstalking. Be cautious of misinterpreting everyday experiences.
 
 - Quick mental health check-up and integrity assurance
-
-- Online tests for internal integrity
-
-
-- Possible coincidences explanation
-
+- 
+Regular mental health check-ups are crucial for maintaining well-being. Consider taking a quick screening test like the Generalized Anxiety Disorder 7-item scale (GAD-7) or the Patient Health Questionnaire-9 (PHQ-9) to assess your mental state. Additionally, integrity assurance can be evaluated through self-reflection and tools like the Minnesota Multiphasic Personality Inventory (MMPI). These checks can help identify potential issues and promote mental wellness.
   
 - Check for medical issues (anxiety triggers)
 
+Anxiety can be triggered by various medical issues and natural factors. It's essential to rule out underlying conditions that may be contributing to anxiety. Some medical issues to consider include: Thyroid disorders, Heart problems, Diabetes, Sleep disorders.
+Additionally, certain substances and toxins can naturally raise anxiety levels, such as: Caffeine and nicotine, Heavy metals (e.g., lead, mercury), Pesticides and insecticides, Certain medications (e.g., steroids, stimulants)
 
+- Talk to Psychotherapist
 
-- Talk to Neurologist / Psychiatrist / Psychologist
-
+Don't hesitate to reach out to a mental health professional for support. They can provide a safe and confidential space to discuss your concerns and work through challenges.
 
 ## Am I a targeted individual?
 
@@ -144,11 +142,13 @@ Fight back and make a change. Be the Change.
 5) Persons with no strong social ties and connections
 6) Persons with pre-disposal to mental illnesses
 7) Prisoners or ex-prisoners
-8) Writers, entrepreneurs, musicians and religious leaders
-
+8) Master and PhD-level scientists
+9) Writers, entrepreneurs, musicians and religious leaders
+10) Potentially valuable contractors for intelligence and defence orgs (AI experts, programmers, hackers, etc.)
+    
 - What will happen with me next? Am I doomed?
 
-You have good chances to survive and thrive. Now we have more than 5 strong organizations that fight against this organised criminal syndicate. We are not alone, we have strong support inside governments. We have our rights to be heard, to be protected and to get a compensation for the harm made to our lives, our freedom and our families.
+You have a good chance to survive and thrive. Now, we have more than five strong organizations that are fighting against this organized criminal syndicate. We are not alone; we have strong support from within governments. We have the right to be heard, to be protected, and to receive compensation for the harm done to our lives, our freedom, and our families.
 
 ## General information and FAQ
 
