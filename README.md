@@ -270,7 +270,6 @@ Measurement
 
 ## Financial terrorism / Economic warfare
 
-
 ## Self Help
 
 * YouTube channels
@@ -282,23 +281,3 @@ Measurement
 * Religion to keep integrity
 * Sport and life balance
 * Family and Social support
-
-## Support Groups and Communities
-
-TBD
-
-## Legal Actions: what's missing
-
-TBD
-
-## Let's make some noise. Protests. Strikes. Demonstrations.
-
-TBD
-
-<!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
