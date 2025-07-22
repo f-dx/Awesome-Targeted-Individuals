@@ -194,12 +194,24 @@ Since 9/11, **over $8 trillion of public money** has been transferred from soc
 ## Agents of the system / Who they are?
 
 
+"... It was some Time since that a Book fell into my Hands entituled “Proofs of a Conspiracy &c. by John Robison, which gives a full Account of a Society of Freemasons, that distinguishes itself by the Name “of Illuminati,” whose Plan is to overturn all Government and all Religion, even natural; and who endeavour to eradicate every Idea of a Supreme Being, and distinguish Man from Beast by his Shape only. A Thought suggested itself to me, that some of the Lodges in the United States might have caught the Infection, and might cooperate with the Illuminati or the Jacobine Club in France. Fauchet is mentioned by Robison as a zealous Member: and who can doubt of Genet and Adet? Have not these their Confidants in this Country? They use the same Expressions and are generally Men of no Religion. Upon serious Reflection I was led to think that it might be within your Power to prevent the horrid Plan from corrupting the Brethren of the English Lodge over which you preside. " To George Washington from G. W. Snyder, 22 August 1798
+
+"I have heard much of the nefarious, & dangerous plan, & doctrines of the Illuminati, but never saw the Book until you were pleased to send it to me..." - Washington
+
+Several people have come forward as Illuminati whistleblowers, sharing detailed but controversial stories about their alleged involvement in a secretive, powerful group. These accounts often include claims of rituals, political control, and plans for a New World Order. While fascinating, these claims are debated and lack mainstream verification, so it's important to consider them critically.
+
+**Forced Participation in Secret Societies**: Fritz Springmeier claims individuals are coerced into joining secret societies like the Illuminati through blackmail, threats, or mind control, violating their freedom to choose their associations and beliefs.
+
+**Mind Control Programming Violates Free Will**: Springmeier alleges that global elites, including the Illuminati, use sophisticated mind control techniques (e.g., Monarch programming) to strip individuals of autonomy, forcing them to act against their will through trauma-based conditioning. This undermines freedom of choice by creating “programmed slaves” who cannot make independent decisions.
+
+**Forced Labor in Covert Operations**: Springmeier alleges that mind-controlled individuals are used as operatives (e.g., assassins, spies) without consent, constituting forced labor and violating their right to choose their work.
+
+
 ## RNM (Remote Neural Monitoring)
 
 Advanced brain control technology mind control for the masses, no implant needed.
 There is no credible scientific evidence or public information to support the existence of a technology,
 known as "remote neural monitoring" being used to track targeted individuals. 
-The community is still in search for the answers. My research project is located here: https://github.com/f-dx/Awesome-Remote-Neural-Monitoring
 
 ## Agents at scale: "Street Theatre" performances
 
