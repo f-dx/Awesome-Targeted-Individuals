@@ -193,7 +193,7 @@ Since 9/11, **over $8 trillion of public money** has been transferred from soc
 
 ## Agents of the system / Who they are?
 
-There is a complex web of connections within secret organisations, goverments, intelligence and defence orgs, and elite families.
+There is a complex web of connections within secret organisations, goverments, intelligence and defence orgs controlled and orchestrated by elite families.
 
 70 years ago in the US it looked like [this](https://isgp-studies.com/afio-and-oss-society)
 
