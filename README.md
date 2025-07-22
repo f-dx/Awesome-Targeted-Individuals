@@ -110,10 +110,21 @@ Fight back and make a change. Be the Change.
 ## Before start
 
 - False triggers and misrepresentation
+
+
+
 - Quick mental health check-up and integrity assurance
+
 - Online tests for internal integrity
+
+
 - Possible coincidences explanation
+
+  
 - Check for medical issues (anxiety triggers)
+
+
+
 - Talk to Neurologist / Psychiatrist / Psychologist
 
 
@@ -123,13 +134,50 @@ Fight back and make a change. Be the Change.
 - [Symptoms](https://stop007.org/home/how-is-it-all-possible/for-new-victims/) - How does it feel to be a victim?
 - Checklist of Targeted Individual
 - Why am I targeted?
+
+## Groups of risk:
+
+1) Defence & Intelligence orgs whistleblowers
+2) Political activists and dissidents
+3) Independent researchers and freethinkers
+4) Drugs and alcohol addicted
+5) Persons with no strong social ties and connections
+6) Persons with pre-disposal to mental illnesses
+7) Prisoners or ex-prisoners
+8) Writers, entrepreneurs, musicians and religious leaders
+
 - What will happen with me next? Am I doomed?
+
+You have good chances to survive and thrive. Now we have more than 5 strong organizations that fight against this organised criminal syndicate. We are not alone, we have strong support inside governments. We have our rights to be heard, to be protected and to get a compensation for the harm made to our lives, our freedom and our families.
 
 ## General information and FAQ
 
 - Who is behind Targeted Individuals program?
+
+A former high-level FBI official (the late Ted L. Gunderson) publicly claiming that “gang stalking” is simply a more sophisticated version of COINTELPRO.
+
+Quote: "**They have the technology, financing and manpower to dispense illegal surveillance and harassment against anyone at any time, day or night.** I have files on numerous cases of active, programmatic, illegal government harassment currently being conducted against thousands of Americans. **This makes the F.B.I.'s former COINTELPRO program, which I worked on, including in a supervisory capacity, look like a Sunday school program by comparison**...
+
+I firmly believe that most individuals working in the F.B.I., other intelligence agencies, and the government overall are honest, law-abiding public servants. However, **a sophisticated network of rogue operatives has secretly infiltrated the F.B.I., other intelligence agencies including the C.I.A., and other key government positions...
+
+This rogue element **seeks personal power and wealth and considers themselves above the law and the Constitution**. They are carrying out the aforementioned **surveillance and harassment activities in conjunction with organized crime**, the cult movement in America including **Satanic cults**, other **commercial and political interests**, and even misguided civic organizations and neighborhood groups." - Ted L. Gunderson
+
+This illegal surveillance and harassment program is being called **gang stalking and organized stalking** by the victims targeted by it.
+
 - Why it still exists?
-- How to stop Targeted Individuals program?
+
+Journalist George Webb estimates that today there are over 20 times more undercover government agents operating than during the height of the Vietnam war when the FBIs COINTELPRO and CIA’s MHCHAOS operations were running and spying on Americans. 
+Since 9/11, **over $8 trillion of public money** has been transferred from social programs to the National Security Enterprise (aka “Top Secret America”) from Valentine, D. (2017).
+  
+## How to stop Targeted Individuals program?
+
+- Legal resistance, lawsuits: require strong systematic scientific evidence (at least 450 pages of proof, like in James Walbert's case)
+- Social movements and protests: easier to organize, but usually not well-attended, therefore don't make a lot of sense
+- OSINT research and exposure of gangstalkers (contributing to open-source repositories like this)
+- Proactive letters with related questions to high-stake officials
+- Active exposure through posting and re-posting on social networks
+- Distributing information flyers and booklets: inform street participants about the harm caused by their actions
+- Prayer and popularization of Christianity, as the roots of gangstalking are tightly connected with [Satanism](https://www.youtube.com/watch?v=a0MLtcjV0q0)
 
 ## How does it work / The surface of attack
 
