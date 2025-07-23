@@ -317,9 +317,9 @@ Measurement
 ## Call for whistleblowers:
 Are you working for Secret Services and noticed injustice?
 
-If you feel that innocent people deserve to be protected from torture,
+If you feel that innocent people deserve to be protected from tortures and covert violence,
 
-If you understand that supporting the largest criminal syndicate on the planet is wrong,
+If you understand that supporting **the largest criminal syndicate** on the planet **is wrong**,
 
 If you're looking for redemption for the things you've done,
 
@@ -328,4 +328,7 @@ If you are ready to share relevant information,
 **DO IT HERE**:
 https://wikileaks.org/#submit
 
+It is difficult to be brave. But to die as a coward is worse.
+
 We'll add the information from relevant, verified uploaded sources after the public release.
+
