@@ -336,3 +336,4 @@ It is difficult to be brave. But to die as a coward is worse.
 
 We'll add the information from relevant, verified uploaded sources after the public release.
 
+"If the intelligence community is not stopped from their unconscionable crimes now, then future victims are truly doomed by expanding and unimaginable crimes that the public is programmed to accept as normal. Public policy then becomes the invisible law authorizing genocide and global crimes against humanity. Perhaps such future is now upon us." - Geral Sosbee
