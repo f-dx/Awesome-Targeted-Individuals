@@ -151,6 +151,11 @@ You have a good chance to survive and thrive. Now, we have more than five strong
 
 - Who is behind Targeted Individuals program?
 
+Carl Clark, who was a freelancer from 1980 to 2003 for different Secret Services, confirms that the US CIA is in fact a state run domestic terrorist organization that does illegal torture operations on citizens to drive them crazy, make them suicidal, and discredit them. Here is the quote: "I worked for the American Central Intelligence Agency (CIA) up to 1997. I tracked individual targets for the CIA. I had orders to confuse or deceive them. Unfortunately, the deployment of microwave weapons has become very practicable. I was responsible for surveillance. Colleagues from special departments did this. However, I was at times on site when these weapons were deployed. The radar emits electromagnetic waves, some of which pick up the target and the result is then evaluated. My friends who work in the special department could then follow the target all day on their computers. This form of localising the target made it easy to deploy the weapons accurately. My colleagues could see exactly where to aim and also observe how the target reacted.
+
+They create heat, inner burns, pain, nausea, fear. Sometimes traces are left on the skin, but mostly not.
+The aim is to intimidate certain people, for example people who make a lot of noise. I myself was under attack for three years after opting out. The undoubted goal is to have select people end up in psychiatric institutions. If a target seeks help by going to the police or to the doctor, they don’t get taken seriously. Some doctors and hospitals actually work together with the Secret Services."
+
 A former high-level FBI official (the late Ted L. Gunderson) publicly claiming that “gang stalking” is simply a more sophisticated version of COINTELPRO.
 
 Quote: "**They have the technology, financing and manpower to dispense illegal surveillance and harassment against anyone at any time, day or night.** I have files on numerous cases of active, programmatic, illegal government harassment currently being conducted against thousands of Americans. **This makes the F.B.I.'s former COINTELPRO program, which I worked on, including in a supervisory capacity, look like a Sunday school program by comparison**...
