@@ -316,8 +316,11 @@ Measurement
 
 ## Call for whistleblowers:
 If you feel that innocent people deserve to be protected from torture,
+
 If you understand that supporting the largest criminal syndicate on the planet is wrong,
+
 If you're looking for redemption for the things you've done,
+
 If you are ready to share relevant information,
 
 **DO IT HERE**:
