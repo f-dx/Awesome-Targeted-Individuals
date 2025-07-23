@@ -151,7 +151,7 @@ You have a good chance to survive and thrive. Now, we have more than five strong
 
 - What is the goal of the program?
 
-There's no simple answer. For some, it is limited to minimal intrusion for psych-correction. For others, it's a long-term torture with training purposes (see CIA operation Monarch). In many cases: "The goal is to provoke a violent response from the target and then to present to the insane FMJ a recommendation for hospitalization in a mental ward or imprisonment in jail with coordination with controlled district attorneys." - says Ex-FBI Whistleblower, Geral Sosbee.
+There's no simple answer. For some, it is limited to minimal intrusion for psycho-correction. For others, it's a long-term torture with training purposes (see CIA operation Monarch). In many cases: "The goal is to provoke a violent response from the target and then to present to the insane FMJ a recommendation for hospitalization in a mental ward or imprisonment in jail with coordination with controlled district attorneys." - says Ex-FBI Whistleblower, Geral Sosbee.
 
 - Who is behind Targeted Individuals program?
 
