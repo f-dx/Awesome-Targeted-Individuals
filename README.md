@@ -149,6 +149,10 @@ You have a good chance to survive and thrive. Now, we have more than five strong
 
 ## General information and FAQ
 
+- What is the goal of the program?
+
+There's no simple answer. For some, it is limited to minimal intrusion for psych-correction. For others, it's a long-term torture with training purposes (see CIA operation Monarch). In many cases: "The goal is to provoke a violent response from the target and then to present to the insane FMJ a recommendation for hospitalization in a mental ward or imprisonment in jail with coordination with controlled district attorneys." - says Ex-FBI Whistleblower, Geral Sosbee.
+
 - Who is behind Targeted Individuals program?
 
 Carl Clark, who was a freelancer from 1980 to 2003 for different Secret Services, confirms that the US CIA is in fact a state run domestic terrorist organization that does illegal torture operations on citizens to drive them crazy, make them suicidal, and discredit them. Here is the quote: "I worked for the American Central Intelligence Agency (CIA) up to 1997...  My operational area was Europe: Paris, Zurich, Berlin, Dusseldorf, Munich, Madrid, Lyons, Bilbao and Moscow... I tracked individual targets for the CIA. I had orders to confuse or deceive them.Unfortunately, the deployment of microwave weapons has become very practicable. I was responsible for surveillance. **Colleagues from special departments did this.** However, I was at times on site when these weapons were deployed. The radar emits electromagnetic waves, some of which pick up the target and the result is then evaluated. My friends who work in the special department could then follow the target all day on their computers. This form of localising the target made it easy to deploy the weapons accurately. My colleagues could see exactly where to aim and also observe how the target reacted. They create heat, inner burns, pain, nausea, fear. Sometimes traces are left on the skin, but mostly not.
