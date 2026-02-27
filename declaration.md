@@ -41,7 +41,7 @@ Where technology serves humanity—not control. Where resistance is the norm, di
 
 The Call
 
-Join the TRC today. Begin in your trusted circle.
+Join the neurolaws.org today. Begin in your trusted circle.
 Speak truth. Demand compensation. Live with dignity.
 The cartel cannot ignore us. It cannot outlast us. It cannot break us.
 We are the resistance. We are the future. We begin now.
