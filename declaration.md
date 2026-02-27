@@ -30,7 +30,8 @@ Full compensation for every victim since the 1980s is our non-negotiable demand.
 
 We publish everything openly—every toolkit, every meeting summary, every protest plan, even this manifesto. 
 The more they watch and attempt to suppress, the faster we grow. Every overreaction exposes their ruthlessness and accelerates recruitment worldwide.
-We build parallel institutions—mutual-aid networks, education circles, boycotts, and societies that deliver justice where the cartel fails and render centralized control obsolete.
+We build parallel institutions—mutual-aid networks, education circles, [boycotts](https://github.com/f-dx/Awesome-Targeted-Individuals/blob/main/boycott.md), and societies that deliver justice where the cartel fails and render centralized control obsolete.
+
 We integrate the fifty proven nonviolent methods of history with twenty-five new innovations, creating a synergistic ecosystem no surveillance state can dismantle. We fight technological dictatorship by demanding accountability without violence. We expose violations by any actor. We reclaim agency within the space of captivity.
 
 ### Our Vision
