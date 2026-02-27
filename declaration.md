@@ -1,3 +1,5 @@
+Our awareness
+
 From the first moment of our existence, we operate with full understanding—and public declaration—that every action, plan, conversation, and intent for resistance is monitored, 
 recorded, analyzed, and actively suppressed by advanced AI systems deployed by forces acting against civilization itself.
 We know they will attempt to erase our memories, alter our personalities, force conformity, and reduce our lives to subjugation. 
@@ -6,6 +8,7 @@ We act knowingly in captivity, on the territory of the enemy—against a cartel 
 and intelligence organizations that has claimed the right to violate universal human rights on a planetary scale since the 1980s.
 
 Our Refusal
+
 We will not let them succeed.
 We will use every best practice to preserve our sanity, our right to exist, our freedom of thought, and our sovereignty over our own choices. 
 We will not let them dictate what we do, how we live, or what we experience in our own minds.
@@ -31,11 +34,13 @@ We build parallel institutions—mutual-aid networks, education circles, boycott
 We integrate the fifty proven nonviolent methods of history with twenty-five new innovations, creating a synergistic ecosystem no surveillance state can dismantle. We fight technological dictatorship by demanding accountability without violence. We expose violations by any actor. We reclaim agency within the space of captivity.
 
 Our Vision
+
 A civilization where no one owns another's mind, dreams, or body.
 Where every violation since the 1980s is fully documented, compensated, and never repeated. 
 Where technology serves humanity—not control. Where resistance is the norm, dignity is universal, and tyranny cannot survive because consent has been permanently withdrawn.
 
 The Call
+
 Join the TRC today. Begin in your trusted circle.
 Speak truth. Demand compensation. Live with dignity.
 The cartel cannot ignore us. It cannot outlast us. It cannot break us.
