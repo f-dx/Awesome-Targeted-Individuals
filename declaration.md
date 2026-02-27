@@ -23,7 +23,8 @@ Decentralization is our unbreakable structure. No leader to arrest. No center to
 Human dignity is sacred and non-negotiable.
 Full compensation for every victim since the 1980s is our non-negotiable demand.
 
-Our Strategy: The Transparency Paradox
+Our Strategy
+
 We publish everything openly—every toolkit, every meeting summary, every protest plan, even this manifesto. 
 The more they watch and attempt to suppress, the faster we grow. Every overreaction exposes their ruthlessness and accelerates recruitment worldwide.
 We build parallel institutions—mutual-aid networks, education circles, boycotts, and societies that deliver justice where the cartel fails and render centralized control obsolete.
