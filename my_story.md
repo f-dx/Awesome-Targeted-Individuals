@@ -93,3 +93,15 @@ Episode 10: Madrid, Spain (2025 Mar-)
   * [response] Created Large-scale AI OSINT research platform for investigation and proofs collection for crimes using covert neural inerfaces
   * [response] Created Neurolaws.org and Neurolaws.com Initiatives to start large-scale investigation and legal action against covert neural interfaces
   * [response] Had to remove top layers of skin on approx. 30% of my body surface to get rid of micro-contractions caused by bio weapon used for psy tortures
+
+Episode 11: Madrid, Spain (2026)
+- Key events:
+  * [crime] Directed energy weapon attacks (unknown origin): 3-4 nightly incidents per month. Information for investigators: No anomalies detected in common RF bands (100 MHz–5 GHz); magnetic field readings normal during each attack; slight electric field variations detected during attacks.
+  * [crime] On-skin autonomous micro-twitch (full body, 500+ points on the body) and pain (ribs, head: short-term) torture system attacks (ongoing)
+  * [crime] Synthetic dreams (ongoing)
+  * [crime] Gaslighting via social intelligence operations (ongoing)
+  * [response] Contacted https://icator.be/, https://www.viactec.es/, Italian activists
+  * [response] First contact: Office of the United Nations High Commissioner for Human Rights (OHCHR)
+  * [response] Started large-scale autonomous research using AI, increased budget for the project 5x
+  * [response] Created declaration of the organization https://github.com/f-dx/Awesome-Targeted-Individuals/blob/main/declaration.md
+  * [response] New tech platforms for large-scale autonomous research (with communities) and new hardware p2p platform for wikileaks
