@@ -97,6 +97,7 @@ Episode 10: Madrid, Spain (2025 Mar-)
 Episode 11: Madrid, Spain (2026)
 - Key events:
   * [crime] Directed energy weapon attacks (unknown origin): 3-4 nightly incidents per month. Information for investigators: No anomalies detected in common RF bands (100 MHz–5 GHz); magnetic field readings normal during each attack; slight electric field variations detected during attacks.
+  * [crime] Sleep deprivation - once per week approximately, using neural modulation DEW or autonomous neurological weapon 
   * [crime] On-skin autonomous micro-twitch (full body, 500+ points on the body) and pain (ribs, head: short-term) torture system attacks (ongoing)
   * [crime] Synthetic dreams (ongoing)
   * [crime] Gaslighting via social intelligence operations (ongoing)
