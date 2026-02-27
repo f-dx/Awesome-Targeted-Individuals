@@ -106,3 +106,4 @@ Episode 11: Madrid, Spain (2026)
   * [response] Started large-scale autonomous research using AI, increased budget for the project 5x
   * [response] Created declaration of the organization https://github.com/f-dx/Awesome-Targeted-Individuals/blob/main/declaration.md
   * [response] New tech platforms for large-scale autonomous research (with communities) and new hardware p2p platform for wikileaks
+  * [response] Stopped all internal scientific research projects [boycott](https://github.com/f-dx/Awesome-Targeted-Individuals/blob/main/boycott.md)
