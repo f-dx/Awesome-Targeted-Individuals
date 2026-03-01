@@ -61,7 +61,7 @@ Fight back and make a change.  [Be the Change](https://github.com/f-dx/Awesome-T
 | Thomas Drake | Former NSA executive, whistleblower on illegal surveillance | [Website](https://whistleblower.org/bio-thomas-drake/) |
 | Dr. Barrie Trower | Former Royal Navy microwave weapons expert, whistleblower on directed energy weapons | No website available |
 | Mark M. Rich | Author of "The Hidden Evil" about organized stalking, targeted individual | [Website](https://www.newworldwar.org/) |
-| Dr. Eric Karlstrom | Professor Emeritus, researcher on gang stalking and electronic harassment | [Website](https://naturalclimatechange.org/) |
+| Dr. Eric Karlstrom | Professor Emeritus, researcher on gang stalking and electronic harassment | [Website](https://gangstalkingmindcontrolcults.com/) |
 | Paul Baird | Australian human rights advocate focused on surveillance technology | [Website](https://surveillanceissues.com/) |
 | John Finch | Australian activist for targeted individuals, documentarian | No website available |
 | Terry Watkins | Activist and researcher on DEW technologies | [Website](https://www.av1611.org/) |
