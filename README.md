@@ -332,8 +332,6 @@ Measurement
 
 * How to detect an in-wall device
 
-## "Climbing" program / Gladiator fights / Live shows
-
 ## Financial terrorism / Economic warfare
 
 ## Self Help
