@@ -100,7 +100,6 @@ Fight back and make a change.  [Be the Change](https://github.com/f-dx/Awesome-T
 | Dr. James Fetzer | Professor Emeritus, researcher on covert operations and false flag events | [Website](https://jamesfetzer.org/) |
 | Dr. Mary Baker | Neuroscientist researching brain-computer interfaces and neural weapons | No website available |
 | Dr. Katherine Albrecht | Privacy expert, researcher on RFID technology | [Website](https://katherinealbrecht.com/) |
-| Dr. Michael Aquino | Former military intelligence officer, subject of controversy in mind control research | Deceased |
 | Admiral Stansfield Turner | Former CIA Director who testified about MKUltra program | Deceased |
 | Tony Topping | UK-based researcher and experiencer of government targeting | [Website](https://www.tonytopping.com/) |
 | Rosanne Marie Schneider | Author and advocate for targeted individuals' rights | No website available |
