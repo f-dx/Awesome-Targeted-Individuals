@@ -81,6 +81,8 @@ Fight back and make a change.  [Be the Change](https://github.com/f-dx/Awesome-T
 | Dr. Tomo Shibata | Author and researcher on organized stalking and electronic harassment | No website available |
 | John St. Clair Akwei | Former NSA employee who filed lawsuit exposing surveillance technology | No website available |
 | Ted Gunderson | Former FBI Chief exposing COINTELPRO and government harassment programs | Deceased |
+| Geral Sosbee | Former FBI Special Agent, whistleblower on FBI/CIA crimes. Targeted since 1988. Documents "Modern Eugenics" program, DEWs, gang stalking | [Website](https://everydayconcerned.net/tag/fbi-whistleblower-geral-sosbee/) |
+| Carl Clark | CIA/Mossad/MI5 freelancer (1980–2003). Confirmed microwave weapons deployment on targets in Europe. Whistleblower, later targeted himself | [Interview](https://www.stopeg.com/doc/CarlClarkInterview.pdf) |
 | Dr. Alfred McCoy | Author of "A Question of Torture" documenting CIA interrogation history | [Website](https://history.wisc.edu/people/mccoy-alfred-w/) |
 | Midge Mathis | Co-founder of Targeted Justice organization for targeted individuals | [Website](https://targetedjustice.com/) |
 | Nils Melzer | UN Special Rapporteur on Torture who recognized "cyber torture" as human rights violation | [Website](https://www.geneva-academy.ch/masters/teachers/teacher/69-nils-melzer) |
