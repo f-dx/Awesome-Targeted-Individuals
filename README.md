@@ -73,6 +73,7 @@ Fight back and make a change.  [Be the Change](https://github.com/f-dx/Awesome-T
 | Dr. Millicent Black | Minister and targeted individual advocate, public speaker on electronic torture | [Website](https://millicent-black.org/) |
 | Mojmir Babacek | Researcher and writer on psychotronic and electromagnetic weapons | No website available |
 | Soleilmavis Liu | Founder of Peacepink.org, advocate for targeted individuals globally | [Website](https://peacepink.org/) |
+| Suzie Dawson | New Zealand activist-journalist. Researches UK JTRIG and Five Eyes surveillance tactics against activists. "Opening the Five Eyes" / Decipher You series. Founder of Panquake | [Website](https://talkliberation.substack.com/) |
 | Dr. Dietrich Klinghardt | Physician researching effects of electromagnetic fields on health | [Website](https://klinghardtinstitute.com/) |
 | Elana Freeland | Author on geoengineering and covert technology, targeted individual researcher | [Website](https://www.elanafreeland.com/) |
 | Clifford Carnicom | Independent researcher, founder of Carnicom Institute investigating bioengineering | [Website](https://carnicominstitute.org/) |
