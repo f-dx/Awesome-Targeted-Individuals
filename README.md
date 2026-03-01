@@ -53,7 +53,9 @@ Fight back and make a change.  [Be the Change](https://github.com/f-dx/Awesome-T
 | Magnus Olsson | Founder of EUCACH (European Coalition Against Covert Harassment), implant researcher | [Website](https://www.eucach.org/) |
 | Melanie Vritschan | President of ICATOR (International Coalition Against Electronic Torture) | [Website](https://icator.be/) |
 | Richard Lighthouse | Engineer, author, and advisory board member of Targeted Justice | [Website](https://www.rlighthouse.com/) |
+| Robert Naeslund | Swedish TI (1967). Earliest implant victim with X-ray confirmation. SÄPO brain implant, documented by neurosurgeon. Author of "The Brain Transmitter" | [Website](https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_mindcon29.htm) |
 | Julianne McKinney | Former U.S. Army intelligence officer, author of "Microwave Harassment & Mind Control" | No website available |
+| Dorothy Burdick | Author of *Such Things Are Known* (1982)—first U.S. TI book. First to document NSA V2K and thought-reading. Fratus cited her in 1988 | No website available |
 | Cheryl Welsh | Director of Mind Justice, advocating for the rights of targeted individuals | [Website](https://mindjustice.org/) |
 | J. Kirk Wiebe | Former NSA senior analyst, whistleblower on surveillance programs | [Website](https://whistleblower.org/bio-william-binney-and-j-kirk-wiebe/) |
 | Thomas Drake | Former NSA executive, whistleblower on illegal surveillance | [Website](https://whistleblower.org/bio-thomas-drake/) |
