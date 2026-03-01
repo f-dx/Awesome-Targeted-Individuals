@@ -108,6 +108,32 @@ Fight back and make a change.  [Be the Change](https://github.com/f-dx/Awesome-T
 | Dr. Masaki Shimoyama | Japanese researcher on electromagnetic weapons and targeting in Asia | No website available |
 | David James Fratus | Utah State Prison inmate (1986). Earliest documented first-person account of V2K/RNM—voices, tones amplified when ears plugged, brain monitoring, sleep deprivation. Letter written Oct 1988. | [Archived](https://web.archive.org/web/20000711155517/netti.fi/~makako/mind/d_fratus.htm) | 
 
+## Organizations by Region
+
+| Region | Country | Organization | Website |
+|--------|---------|--------------|---------|
+| Europe | Belgium | Icator | [icator.be](http://icator.be) |
+| Europe | France | ADVHER (Association de Defense des Victimes de Harcélement Electromagnétique et en Réseau) | [net1901.org](http://www.net1901.org/association/ASSOCIATION-DE-DEFENSE-DES-VICTIMES-DE-HARCELEMENT-ELECTROMAGNETIQUE-ET-EN-RESEAU-ADVHER,1181155.html) |
+| Europe | Germany | Schutzschild e.V. | [schutzschild-ev.de](http://schutzschild-ev.de) |
+| Europe | Italy | ACOFOINMENEF (association against all forms of mental and neurophysiological interference and control) | [associazionevittimearmielettroniche-mentali.org](https://www.associazionevittimearmielettroniche-mentali.org) |
+| Europe | Italy | MOVIMENTO AMPIO CONTRO LA TORTURA TECNOLOGICA PSICOLOGICA E MENTALE | [movimentoampio.blogspot.com](http://movimentoampio.blogspot.com) |
+| Europe | Netherlands | STOPEG Foundation (STOP Electronic weapons and Gangstalking) | [stopeg.com](http://www.stopeg.com) |
+| Europe | Poland | STOP Zorganizowanym Elektronicznym Torturom (STOPZET) | [stopzet.pl](https://stopzet.pl) |
+| Europe | Russia | Moscow Housing Ecology Committee | [moscomeco.narod.ru](http://moscomeco.narod.ru/e.htm) |
+| Europe | Sweden | Society for brain integrity in Sweden | [svegritet.se](http://www.svegritet.se) |
+| Europe | Spain | VIACTEC ESPAÑA | [viactec.es](http://viactec.es) |
+| Europe | UK | Targeted Individuals United | [targetedindividualsunited.com](http://targetedindividualsunited.com) |
+| Europe | UK | Targeted UK | [targetedsurvivors.com](http://www.targetedsurvivors.com) |
+| Europe | UK | Christians Against Mental Slavery | [slavery.org.uk](http://www.slavery.org.uk) |
+| Americas | Canada | Organization of Victims of Psychotronic (Mind Control) Weapons | [organizationofmindcontrolvictims.com](http://organizationofmindcontrolvictims.com) |
+| Americas | Canada | STOP TORTURE | [stop-torture.ca](http://stop-torture.ca) |
+| Americas | USA | PACTS, International | [pactsntl.org](http://www.pactsntl.org) |
+| Americas | USA | Targeted Justice | [targetedjustice.com](http://www.targetedjustice.com) |
+| Asia | India | Society of safe Bharath against covert torture and energy weapons | [CovertEnergyTorture.org](http://www.CovertEnergyTorture.org) |
+| Asia | Japan | Technological Crime Victims Network Specified Nonprofit Organization | [tekuhan.org](http://www.tekuhan.org) |
+| Africa | South Africa | Contact: Carrin Behr | [27798786618@vodamail.co.za](mailto:27798786618@vodamail.co.za) — 82 Sandalwood Lane, Elnita Road, Northwold, Johannesburg |
+| Australia/Oceania | New Zealand | Organised Crime of Covert Electronic Assault Stalking & Surveillance NZ | [organised-crime-of-covert-electronic-assault-nz.com](http://organised-crime-of-covert-electronic-assault-nz.com) |
+
 ## Before start
 
 - False triggers and misrepresentation
