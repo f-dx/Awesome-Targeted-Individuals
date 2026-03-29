@@ -106,7 +106,9 @@ Fight back and make a change.  [Be the Change](https://github.com/f-dx/Awesome-T
 | Rosanne Marie Schneider | Author and advocate for targeted individuals' rights | No website available |
 | Dr. Mario Sims | Researcher on electronic harassment technologies and countermeasures | No website available |
 | Dr. Masaki Shimoyama | Japanese researcher on electromagnetic weapons and targeting in Asia | No website available |
-| David James Fratus | Utah State Prison inmate (1986). Earliest documented first-person account of V2K/RNM—voices, tones amplified when ears plugged, brain monitoring, sleep deprivation. Letter written Oct 1988. | [Archived](https://web.archive.org/web/20000711155517/netti.fi/~makako/mind/d_fratus.htm) | 
+| David James Fratus | Utah State Prison inmate (1986). Earliest documented first-person account of V2K/RNM—voices, tones amplified when ears plugged, brain monitoring, sleep deprivation. Letter written Oct 1988. | [Archived](https://web.archive.org/web/20000711155517/netti.fi/~makako/mind/d_fratus.htm) |
+| David Icke | British author and speaker on mass surveillance, covert control systems, and non-consensual influence | [Website](https://www.davidicke.com/) |
+| Ana Toledo | Attorney (J.D.), targeted individual, Targeted Justice advisory board; litigant exposing TSDB and related programs | [Website](https://anatoledo.com/) |
 
 ## Organizations by Region
 
